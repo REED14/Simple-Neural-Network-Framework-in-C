@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1617016700 source:f:\forex ai project\data predictor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SNNC 2.0.h"
+
+1617014761 f:\forex ai project\data predictor\snnc 2.0.h
+	"ACT_F.h"
+	<stdbool.h>
+
+1617014884 f:\forex ai project\data predictor\act_f.h
+	<math.h>
+
+1617019825 source:f:\forex ai project\data predictor source\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SNNC 2.0.h"
+
+1617014761 f:\forex ai project\data predictor source\snnc 2.0.h
+	"ACT_F.h"
+	<stdbool.h>
+
+1617014884 f:\forex ai project\data predictor source\act_f.h
+	<math.h>
+
